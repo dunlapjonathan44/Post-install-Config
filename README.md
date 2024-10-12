@@ -29,24 +29,38 @@ Configuring Roles, Departments and Teams
 Login as an Admin user at http://localhost/osTicket/scp then click on Admin Panel in the top right then hover over Agents>Roles
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/XMH3JI7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Each role provides different levels of permissions for the agents we create. The permissions range from View only, where the agent can only view tickets, to All access, which grants full control. Agents with full access can assign tickets, adjust SLA levels, create, close, or delete tickets, and more. To add departments, click on Departments next to the Roles tab, then select Add new department to proceed with the setup.
+
+<img src="https://i.imgur.com/YjBRHVF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
+
 This section allows the creation of different departments within the company, where you can configure unique SLA schedules, assign tickets to specific departments, and set up alerts and auto-responses. After configuring departments, you can proceed to the Teams tab and click Add New Team to assign agents to specialized teams for more efficient ticket management.
+
+
+
+<img src="https://i.imgur.com/Rp9mtH5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>Teams can be created within departments to better organize agent roles. For example, you might have an Online Banking team within the SysAdmins department. Once agents are created, team members can be added to handle specific ticket requests. Additionally, users can submit tickets without needing to register an account. To enable this, go to Settings -> Users, and uncheck the option Require registration and login to create tickets. This simplifies the process for users seeking IT support.
+
+<img src="https://i.imgur.com/A4LYFf5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/OKXbzLA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 
   Now we can begin adding agents to manage and respond to tickets in the help desk system. To do this, navigate to the Agents tab, and click on Add New Agent. This allows you to input essential details such as the agent's name, email, and role. Assigning agents to specific roles ensures they have the correct permissions to view, manage, or resolve tickets. As you continue, agents can be further assigned to departments or teams, streamlining your ticket workflow for better support coverage.
 
