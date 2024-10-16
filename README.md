@@ -75,6 +75,7 @@ This section allows the creation of different departments within the company, wh
 
   It's a good practice to assign agents to specific teams, enabling them to collaborate and assign tickets to agents in other teams if needed. To do this, go to Teams and add each agent to their respective team. For example, Jane Doe can be assigned to Online Banking, and John Doe to Support. Additionally, you can create users (customers) who need support. Click the Agent Panel in the top right, select Users, and then Add User. In this instance, you can create users named Karen and Ken for demonstration purposes.
 
+<img src="https://i.imgur.com/T96eqau.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 It's essential for agents to prioritize and address tickets based on their urgency and business impact. This can be managed effectively by setting up different SLA (Service Level Agreement) levels. By creating various SLA policies, we can ensure that high-priority tickets receive faster responses and resolutions, while lower-priority issues are handled accordingly. For example, critical issues affecting core systems might have a 1-hour response time, whereas less urgent requests could have a longer resolution window. Customizing SLA levels helps align ticket management with business goals and customer expectations.
 
