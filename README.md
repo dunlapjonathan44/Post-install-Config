@@ -79,9 +79,11 @@ This section allows the creation of different departments within the company, wh
 
 It's essential for agents to prioritize and address tickets based on their urgency and business impact. This can be managed effectively by setting up different SLA (Service Level Agreement) levels. By creating various SLA policies, we can ensure that high-priority tickets receive faster responses and resolutions, while lower-priority issues are handled accordingly. For example, critical issues affecting core systems might have a 1-hour response time, whereas less urgent requests could have a longer resolution window. Customizing SLA levels helps align ticket management with business goals and customer expectations.
 
+<img src="https://i.imgur.com/lLTK3QZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 To create new SLA plans, click on Add New SLA Plan and enter the details according to severity. For example, set Sev-A for the most urgent issues (grace period: 1 hour, schedule: 24x7), Sev-B for medium priority (grace period: 4 hours, schedule: 24x7), and Sev-C for lower priority (grace period: 8 hours, schedule: business hours only). You can also create help topics to categorize incoming tickets more efficiently. While users may not always select the correct category, having options streamlines ticket management. Go to the Admin Panel, click Manage, and then Add New Help Topic.
 
+<img src="https://i.imgur.com/GFxFKyG.png" width="80%" alt="Disk Sanitization Steps"/>
 
 We can now create various help topics to better categorize incoming tickets. Start by choosing a Top-level topic such as Report a Problem. From there, you can create more specific subtopics, like Access Issue, to narrow down the type of request.
 </p>
