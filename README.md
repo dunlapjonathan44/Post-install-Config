@@ -64,8 +64,14 @@ This section allows the creation of different departments within the company, wh
 
   Now we can begin adding agents to manage and respond to tickets in the help desk system. To do this, navigate to the Agents tab, and click on Add New Agent. This allows you to input essential details such as the agent's name, email, and role. Assigning agents to specific roles ensures they have the correct permissions to view, manage, or resolve tickets. As you continue, agents can be further assigned to departments or teams, streamlining your ticket workflow for better support coverage.
 
+<img src="https://i.imgur.com/3AJZL8c.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
+
 
   We can configure an agent’s details such as their name, password, and email address, while also assigning their access level, permissions, and team. For instance, you could create an agent named Jane Doe, assign her to the SysAdmins department, and grant her All Access. This level of access provides default permissions, but you can customize specific settings if needed. Similarly, you might create John Doe, assign him to the Support department, and grant him Expanded Access to limit permissions while maintaining flexibility in ticket handling.
+
+<img src="https://i.imgur.com/vLRKsWC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
   It's a good practice to assign agents to specific teams, enabling them to collaborate and assign tickets to agents in other teams if needed. To do this, go to Teams and add each agent to their respective team. For example, Jane Doe can be assigned to Online Banking, and John Doe to Support. Additionally, you can create users (customers) who need support. Click the Agent Panel in the top right, select Users, and then Add User. In this instance, you can create users named Karen and Ken for demonstration purposes.
 
